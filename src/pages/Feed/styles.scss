@@ -1,0 +1,14 @@
+.pagination-btn {
+  &:first-child {
+    margin-right: 15px;
+  }
+  &--wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
+.loading-btn {
+  font-size: 33px;
+  text-align: center;
+}
